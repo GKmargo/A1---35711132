@@ -13,8 +13,8 @@ import br.edu.up.modelo.Aluno;
 import br.edu.up.modelo.Resumo;
 
 public class Programa {
-    private static final String ARQUIVO_ALUNOS = "C:\\Users\\User\\OneDrive\\Documentos\\A1\\Prova\\src\\br\\edu\\up\\dao\\alunos.csv";
-    private static final String ARQUIVO_RESUMO = "C:\\Users\\User\\OneDrive\\Documentos\\A1\\Prova\\src\\br\\edu\\up\\dao\\resumo.csv";
+    private static final String ARQUIVO_ALUNOS = "C:\\Users\\User\\OneDrive\\Documentos\\A1---35711132\\Prova\\src\\br\\edu\\up\\dao\\alunos.csv";
+    private static final String ARQUIVO_RESUMO = "C:\\Users\\User\\OneDrive\\Documentos\\A1---35711132\\Prova\\src\\br\\edu\\up\\dao\\resumo.csv";
     private static final String HEADER_RESUMO = "Quantidade de Alunos;Aprovados;Reprovados;Menor Nota;Maior Nota;Média Geral";
 
     public static void main(String[] args) {
